@@ -1,0 +1,17 @@
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.csprojResolveAssemblyReference.cache
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.Properties.Resources.resources
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.Tables.resources
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.csproj.GenerateResource.Cache
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\bin\Debug\SnookerClub.exe
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\bin\Debug\SnookerClub.pdb
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.exe
+C:\Users\Hi\Documents\Visual Studio 2012\Projects\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.pdb
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\bin\Debug\SnookerClub.exe
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\bin\Debug\SnookerClub.pdb
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.csprojAssemblyReference.cache
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.Properties.Resources.resources
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.Tables.resources
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.csproj.GenerateResource.cache
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.csproj.CoreCompileInputs.cache
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.exe
+C:\Users\CoPaXoN\source\repos\SnookerClub\SnookerClub\obj\x86\Debug\SnookerClub.pdb
